@@ -1,0 +1,11 @@
+# 端口设置
+server:
+  port: 7000
+
+spring:
+  application:
+    # 应用名称
+    name: org.opsli.limiter
+  #开启aop
+  aop:
+    proxy-target-class: true
