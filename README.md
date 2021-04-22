@@ -9,9 +9,9 @@
 
 > **限流器规则: IP + URI + QPS令牌桶**
 
-![使用试例1](https://www.arcinbj.com/upload/2021/01/%E4%BD%BF%E7%94%A8%E8%AF%95%E4%BE%8B1-1b4a2273752a44fd8616a96225415c7b.png)
+![使用试例1](https://www.bedebug.com/upload/2021/01/%E4%BD%BF%E7%94%A8%E8%AF%95%E4%BE%8B1-1b4a2273752a44fd8616a96225415c7b.png)
 
-![使用试例2](https://www.arcinbj.com/upload/2021/01/%E4%BD%BF%E7%94%A8%E8%AF%95%E4%BE%8B2-3715e4938dc446ecbcc68784f0f45661.png)
+![使用试例2](https://www.bedebug.com/upload/2021/01/%E4%BD%BF%E7%94%A8%E8%AF%95%E4%BE%8B2-3715e4938dc446ecbcc68784f0f45661.png)
 
 ### 1. 引入谷歌Jar包
 ```
